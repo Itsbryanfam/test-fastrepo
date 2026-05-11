@@ -1,3 +1,5 @@
-# wawawewa2.md
+# Hello World
 
-This is new content for the file created on branch borat.
+```python
+print("Hello, World!")
+```
