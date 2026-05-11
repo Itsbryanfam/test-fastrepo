@@ -1,12 +1,47 @@
-# Wawawewa3
+# Hello World Code Examples
 
-This is a newly created Markdown file on the `borat` branch of the `itsbryanfam/test-fastrepo` repository.
+This file contains hello world code in various programming languages.
 
-**Borat voice:** "Wawawewa! Very nice!"
-
-- Created via AI assistant
-- Date: May 2026
-
-```markdown
-Success!
+## Python
+```python
+print("Hello, World!")
 ```
+
+## JavaScript
+```javascript
+console.log("Hello, World!");
+```
+
+## Java
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+```
+
+## C
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
+```
+
+## Go
+```go
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("Hello, World!")
+}
+```
+
+**Wawawewa! Very nice!** - Borat
+
+*Updated via AI assistant on May 2026*
